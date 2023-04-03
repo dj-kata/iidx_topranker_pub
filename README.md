@@ -1,0 +1,2 @@
+# iidx_topranker_pub
+IIDXSP全1botの公開データ管理用
