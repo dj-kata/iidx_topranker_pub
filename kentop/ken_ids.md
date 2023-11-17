@@ -1,3 +1,7 @@
+全1(+HV以降の歴代TOP)のデータとは別に、  
+各エリアでのTOPをまとめたTSVも置いています。  
+https://github.com/dj-kata/iidx_topranker_pub/tree/main/kentop
+
 こちらは灰以下の譜面も含みます。
 
 kentop内ファイルのpref後のIDは以下のように対応。

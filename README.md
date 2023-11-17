@@ -23,7 +23,7 @@ botから直接使っているためタイトル行を追加していません�
 
 ## エリア別データについて
 全1(+HV以降の歴代TOP)のデータとは別に、  
-各エリアでのTOPをまとめたTSVも置いています。
+各エリアでのTOPをまとめたTSVも置いています。  
 https://github.com/dj-kata/iidx_topranker_pub/tree/main/kentop
 
 こちらは灰以下の譜面も含みます。
