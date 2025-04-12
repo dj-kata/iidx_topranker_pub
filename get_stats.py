@@ -45,6 +45,7 @@ bpl_member = {
     'NIKE.':'supernova',
     'TAKWAN':'supernova',
     '46':'supernova',
+    'MOMOI':'supernova',
 
     'KKM*':'taito',
     'RIOO':'taito',
